@@ -57,7 +57,7 @@ Number_Theory_and_Cryptography_Workshop/
 │   │   ├── Day 1.pdf
 │   │   └── Day 2.pdf
 │   │── Day 1 Assignment.ipynb
-│   │── Day 2 Assignment.pdf
+│   │── Day 2.pdf
 │
 ├── Cryptography/
 │   │
