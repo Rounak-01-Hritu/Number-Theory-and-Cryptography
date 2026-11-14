@@ -1,11 +1,11 @@
-#Name: Most. Rounak Binta Ali Hirtu
-#ID: IT23037
+# Name: Most. Rounak Binta Ali Hirtu
+# ID: IT23037
 
 
 # Number-Theory-and-Cryptography
-# 🔐 Number Theory and Cryptography Workshop
+# Number Theory and Cryptography Workshop
 
-## 📌 About the Workshop
+##  About the Workshop
 
 This repository contains the learning materials, lecture slides, assignments, practical exercises, and cryptography demonstrations from the **Number Theory and Cryptography Workshop**, organized by the **Maths and Physics Club, IIT Bombay**.
 
